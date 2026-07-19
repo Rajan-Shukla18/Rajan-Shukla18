@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=1F5E3D&center=true&vCenter=true&width=500&lines=Rajan+Shukla;Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=1F5E3D&vCenter=true&width=500&lines=Rajan+Shukla;Frontend+Developer)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rajan-shukla-b02467337) [![Fieldnotes](https://img.shields.io/badge/-Fieldnotes-1F5E3D?style=flat-square&logo=rss&logoColor=white)](https://react-router-blog-app-mu.vercel.app/) [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rajanshukla88503@gmail.com)
 
