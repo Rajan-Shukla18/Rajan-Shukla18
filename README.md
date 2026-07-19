@@ -6,12 +6,11 @@
 
 ## About Me
 
-Third-year Computer Engineering student at Datta Meghe College of Engineering, Navi Mumbai, building full-stack web apps with React, Node.js, and Express.
+3rd -year Computer Engineering student at Datta Meghe College of Engineering, Navi Mumbai, building full-stack web apps with React, Node.js, and Express.
 
 - Currently building **Fieldnotes**, a React Router blog with a custom editorial design system
 - Maintaining an 8-module **RTO Management System** — React frontend, Express + Supabase backend
-- Looking for a Front-End Development internship
-- Ask me about React, React Router, and frontend architecture
+- Learning by building real projects rather than just following tutorials
 
 ---
 
