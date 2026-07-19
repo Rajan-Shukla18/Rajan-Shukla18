@@ -1,36 +1,40 @@
-# Rajan Shukla
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=1F5E3D&center=true&vCenter=true&width=600&lines=Front-End+Developer;React+%2B+React+Router;Building+Fieldnotes+%26+RTO+System)](https://git.io/typing-svg)
 
-Front-end developer. Third-year Computer Engineering student at Datta Meghe College of Engineering, Navi Mumbai. I build things that work in production, not just in a tutorial.
-
-**Currently:** looking for a Front-End Development internship, and writing at [Fieldnotes](https://react-router-blog-app-mu.vercel.app/) — my blog on React, tooling, and design decisions.
-
-## Stack
-
-| | |
-|---|---|
-| **Frontend** | React · React Router · JavaScript · TypeScript · Tailwind CSS |
-| **Backend** | Node.js · Express |
-| **Database** | MySQL · PostgreSQL · MongoDB · Supabase |
-| **Tools** | Git · Vercel |
-
-## Projects
-
-**[RTO Management System](#)**
-Full-stack app, 8 modules — React frontend, Express + Supabase backend. The interesting part wasn't the CRUD, it was keeping state and routing in sync across modules that all depend on each other.
-
-**[Fieldnotes](https://react-router-blog-app-mu.vercel.app/)**
-A multi-page blog built with React Router — dynamic routing, and a design system built from scratch instead of a UI framework.
-
-## Latest from Fieldnotes
-
-- [Why developers are quietly ditching Webpack for Vite](https://react-router-blog-app-mu.vercel.app/post/why-developers-are-ditching-webpack-for-vite)
-- [Vibe coding is fine, until it isn't](https://react-router-blog-app-mu.vercel.app/post/vibe-coding-vs-actually-learning-to-code)
-- [Why most developer portfolios get five seconds](https://react-router-blog-app-mu.vercel.app/post/why-most-portfolios-get-five-seconds)
-
-## GitHub Stats
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rajan-shukla-b02467337) [![Fieldnotes](https://img.shields.io/badge/-Fieldnotes-1F5E3D?style=flat-square&logo=readthedocs&logoColor=white)](https://react-router-blog-app-mu.vercel.app/) [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rajanshukla88503@gmail.com)
 
 ![](https://github-readme-stats.vercel.app/api?username=Rajan-Shukla18&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true)
 
-## Reach me
+## About Me
 
-[LinkedIn](https://www.linkedin.com/in/rajan-shukla-b02467337) · rajanshukla88503@gmail.com
+Third-year Computer Engineering student at Datta Meghe College of Engineering, Navi Mumbai, building full-stack web apps with React, Node.js, and Express.
+
+- Currently building **Fieldnotes**, a React Router blog with a custom editorial design system
+- Maintaining an 8-module **RTO Management System** — React frontend, Express + Supabase backend
+- Looking for a Front-End Development internship
+- Ask me about React, React Router, and frontend architecture
+
+---
+
+### Featured Projects
+
+| Title | Technologies |
+|---|---|
+| [RTO Management System](#) | React, Express, Supabase, REST APIs |
+| [Fieldnotes](https://react-router-blog-app-mu.vercel.app/) | React, React Router, custom CSS design system |
+
+---
+
+### Recent Activity
+
+| Project | Description |
+|---|---|
+| [react-router-blog-app-coregen](#) | Multi-page blog with dynamic routing, live at Fieldnotes |
+| [rto-management-system](#) | 8-module full-stack management system |
+
+---
+
+### Languages & Tools
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/-Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-404D59?style=for-the-badge&logo=express) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05033?style=for-the-badge&logo=git&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
